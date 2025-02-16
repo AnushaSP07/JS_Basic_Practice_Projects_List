@@ -1,2 +1,2 @@
 # JS_Basic_Practice_Projects_List
-Repo contains old basic JS Projects, just keep for reference. Might delete later
+Repo contains old basic JS Projects, just keeping for reference. Might delete later
